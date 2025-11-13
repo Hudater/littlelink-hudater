@@ -18,7 +18,6 @@ jobs:
         with:
           fetch-depth: 0  # for posts's lastmod
           ref: main
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
