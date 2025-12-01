@@ -96,7 +96,8 @@ button {
 .button-github {
 	--button-text:#ffffff;
 	--button-background:#000000;
-	background-image: linear-gradient(-135deg, #141313ff, #141414ff, #1c1b1bff); 
+	/* background-image: linear-gradient(-135deg, #1a1919, #181a1c, #1c1b1bff); */
+	background-image: linear-gradient(-135deg, #1a1919, #1b1c1e, #1c1b1bff);
 	/* --button-border:1px solid #FFFFFF; */
 }
 
