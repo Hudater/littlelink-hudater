@@ -13,7 +13,7 @@
 	background-color:var(--button-background,transparent);
 	border:var(--button-border,none);
 	transition:filter 0.2s ease,transform 0.2s ease;
-	--button-border:0.5px solid #b4b3b3ff;
+	/* --button-border:0.5px solid #b4b3b3ff; */
 }
 
 /* .button,
