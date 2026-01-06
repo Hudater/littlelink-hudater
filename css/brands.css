@@ -64,7 +64,7 @@ button {
 /* Blog button */
 .button-blog {
 	--button-text:#ffffff;
-	background-image: linear-gradient(-135deg, #280039, #5b3287, rgb(34, 18, 48));
+	background-image: linear-gradient(-135deg, #2A2C2D, #1E1E1E, #2A2C2D);
 	/* --button-border:1px solid #d8d8d8ff; */
 }
 
@@ -79,8 +79,8 @@ button {
 /* Homelab button */
 .button-homelab {
 	--button-text:#ffffff;
-	--button-background:rgb(19, 29, 16);
-	/* background-image: linear-gradient(-135deg, #0a5424ff, #075125ff, #128235ff);  */
+	/* --button-background:#3865AB; */
+	background-image: linear-gradient(-135deg, #325487, #3C67AF, #325487);
 	/* --button-border:1px solid #FFFFFF; */
 }
 
@@ -152,4 +152,10 @@ button {
 .button-yt-alt {
 	--button-text:#ffffff;
 	--button-background:#FF0000;
+}
+/* Hashnode */
+.button-hashnode {
+	--button-text: #000000;
+	--button-background: #ffffff;
+	--button-border: 1px solid #212121;
 }
